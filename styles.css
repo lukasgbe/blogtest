@@ -1,0 +1,46 @@
+.body{
+    background-color: rgb(255, 255, 255);
+}
+.headline-header{
+    text-align: right;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica;
+    font-style:initial;
+    margin: 0.2em;
+    background-color: blue;
+    font-size: larger;
+    padding-right: 0.4em;
+    border-radius: 0.3em;
+    margin: 0.8em;
+}
+
+.surline-header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 1em;
+    font-size: xx-large;
+}
+.blog-preview1{
+    font-size: medium;
+    background-color: rgb(240, 243, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0.8em;
+    padding: 0.3em;
+    border-radius: 0.5em;
+
+}
+.blog-preview1-header{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.advice-span{
+    font-style: italic;
+}
+.linkv1{
+    text-decoration: none;
+    color: rgb(0, 17, 255);
+    border-style:solid;
+    border-width: 0.1em;
+    border-radius: 0.3em;
+    padding: 0.15em;
+    margin-bottom: -0.5em;
+}
