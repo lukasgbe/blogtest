@@ -44,3 +44,63 @@
     padding: 0.15em;
     margin-bottom: -0.5em;
 }
+
+.surline-header-link{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 1em;
+    font-size: xx-large;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.only-text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0.7em;
+    margin-right: 2em;
+}
+
+.big-header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin-left: 0.7em;
+}
+
+.show-author{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -2em;
+    margin: 0.2em;
+    background: rgb(2,0,36);
+    background: linear-gradient(131deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 0%, rgba(255,0,149,1) 100%);
+    font-size: medium;
+    margin-inline-start: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    border-radius: 0.5em;
+    max-width: fit-content;
+    color: white;
+    margin-top: -1em;
+
+}
+
+.disclaimer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 1em;
+    margin-right: 3em;
+    background-color:rgb(217, 217, 255);
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-top: 0.1em;
+    padding-bottom: 0.2em;
+    margin-top: -0.3em;
+    border-radius: 1.2em;
+}
+
+.span01{
+    font-style: italic;
+}
+
+.span02{
+    font-weight: bold;
+}
